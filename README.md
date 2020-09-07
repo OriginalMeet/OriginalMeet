@@ -27,11 +27,11 @@
 <p>
   
   ## Programming Languages & FrameWorks
-  ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/CMake-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/CMake-informational?style=flat&logo=cmake&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)
   
   
   
