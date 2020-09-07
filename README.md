@@ -53,6 +53,11 @@
   ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/Jira_Software-informational?style=flat&logo=Jira-Software&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/Jira_Software-informational?style=flat&logo=Jira-Software&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/Paper.js-informational?style=flat&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/Express.js-informational?style=flat&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/Paper.js-informational?style=flat&logoColor=white&color=blueviolet)
 
 </p>  
 
