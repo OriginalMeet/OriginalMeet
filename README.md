@@ -4,7 +4,7 @@
   <img align="center" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="400px">
   
   # About Me : 👨‍💻
-  ##### I am Machine Learning/ Deep Learning Engineer with hands on working experiance with state of the art ML/DL & AI techniques, I am very passionate regarding Web-Development and Machine Learning. I also have in-depth experiance in Web-Development (Both Front-End & Back-End Web-Development). I also write on <a href="https://medium.com/@MeetR"> Medium </a> for Towards Data Science and Analytics Vidhya. In here you will find all of my Machine Learning and web-development projects.
+  ##### I am Machine Learning/ Deep Learning Engineer with hands on working experiance with state of the art ML/DL & AI techniques, I am very passionate regarding Web-Development and Machine Learning. I also have in-depth experiance in Web-Development (Both Front-End & Back-End Web-Development). I also write on <a href="https://medium.com/@MeetR"> Medium </a> for Towards Data Science and Analytics Vidhya. In here you will find all of my Machine Learning and web-development projects. Here is my <a href="https://www.linkedin.com/in/meet-raval/"> Linkedin </a> if you want to reach out and connect☺️.
   
   
 # 🔧 Technologies & Tools
@@ -18,7 +18,7 @@
 
 <p>
   
-  ## Integrated Development Environment
+  ## Integrated Development Environment 
   ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=blue)
   
   
@@ -61,29 +61,27 @@
 
 </p>  
 
+<p>
+  
+  ## Skills
+  ![](https://img.shields.io/badge/Machine_Learning-informational?style=flat&logo=NPM&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Natural_Language_Processing(NLP)-informational?style=flat&logo=NPM&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Convolutional_Neural_Networks(CNN)-informational?style=flat&logo=NPM&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Data_Analytics-informational?style=flat&logo=NPM&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Data_Modeling-informational?style=flat&logo=NPM&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Time_Sequence_Analysis-informational?style=flat&logo=NPM&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Agile_Methodology-informational?style=flat&logo=NPM&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Transfer_Learning-informational?style=flat&logo=NPM&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Full_Stack_Development-informational?style=flat&logo=NPM&logoColor=white&color=blue)
+  
+</p>
+
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/OriginalMeet/OriginalMeet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OriginalMeet&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-
-
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-
-
-  
-   
-
   
 </div>
 
