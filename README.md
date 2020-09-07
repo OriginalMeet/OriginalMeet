@@ -64,15 +64,15 @@
 <p>
   
   ## Skills
-  ![](https://img.shields.io/badge/Machine_Learning-informational?style=flat&logo=NPM&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/Natural_Language_Processing(NLP)-informational?style=flat&logo=NPM&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/Convolutional_Neural_Networks(CNN)-informational?style=flat&logo=NPM&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/Data_Analytics-informational?style=flat&logo=NPM&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/Data_Modeling-informational?style=flat&logo=NPM&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/Time_Sequence_Analysis-informational?style=flat&logo=NPM&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/Agile_Methodology-informational?style=flat&logo=NPM&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/Transfer_Learning-informational?style=flat&logo=NPM&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/Full_Stack_Development-informational?style=flat&logo=NPM&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Machine_Learning-informational?style=flat&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Natural_Language_Processing(NLP)-informational?style=flat&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Convolutional_Neural_Networks(CNN)-informational?style=flat&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Data_Analytics-informational?style=flat&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Data_Modeling-informational?style=flat&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Time_Sequence_Analysis-informational?style=flat&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Agile_Methodology-informational?style=flat&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Transfer_Learning-informational?style=flat&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Full_Stack_Development-informational?style=flat&logoColor=white&color=blue)
   
 </p>
 
