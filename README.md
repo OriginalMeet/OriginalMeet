@@ -49,10 +49,10 @@
   ![](https://img.shields.io/badge/RESTful_API-informational?style=flat&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blueviolet)
-  ![](https://img.shields.io/badge/Semantic-UI-informational?style=flat&logo=Symphony&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/Semantic_UI-informational?style=flat&logo=Symphony&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=blueviolet)
-  ![](https://img.shields.io/badge/Jira-Software-informational?style=flat&logo=Jira_Software&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/Jira_Software-informational?style=flat&logo=Jira_Software&logoColor=white&color=blueviolet)
 
 </p>  
 
