@@ -10,9 +10,18 @@
 ## 🔧 Technologies & Tools
 <p>
   
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+  ### Operating Systems  
+  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 
+</p>
+
+<p>
+  
+  ### Integrated Development Environment
+  ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
+  
+  
 </p>
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
