@@ -3,14 +3,14 @@
   # Hi there, I'm Meet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <img align="center" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="400px">
   
-  ## About Me : 👨‍💻
+  # About Me : 👨‍💻
   ##### I am Machine Learning/ Deep Learning Engineer with hands on working experiance with state of the art ML/DL & AI techniques, I am very passionate regarding Web-Development and Machine Learning. I also have in-depth experiance in Web-Development (Both Front-End & Back-End Web-Development). I also write on <a href="https://medium.com/@MeetR"> Medium </a> for Towards Data Science and Analytics Vidhya. In here you will find all of my Machine Learning and web-development projects.
   
   
-## 🔧 Technologies & Tools
+# 🔧 Technologies & Tools
 <p>
   
-  ### Operating Systems  
+  ## Operating Systems  
   ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 
@@ -18,7 +18,7 @@
 
 <p>
   
-  ### Integrated Development Environment
+  ## Integrated Development Environment
   ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
   
   
@@ -26,7 +26,7 @@
 
 <p>
   
-  ### Programming Languages & FrameWorks
+  ## Programming Languages & FrameWorks
   ![](https://img.shields.io/badge/Code-Python-informational?      style=flat&logo=python&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
