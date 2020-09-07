@@ -4,7 +4,9 @@
   <img align="center" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="400px">
   
   ## About Me : 👨‍💻
-  ##### I am Machine Learning/ Deep Learning Engineer with hands on working experiance with state of the art ML/DL & AI techniques. I also have in-depth experiance in Web-Development (Both Front-End & Back-End Web-Development). I also write on <a href="https://medium.com/@MeetR"> Medium </a> for Towards Data Science and Analytics Vidhya.
+  ##### I am Machine Learning/ Deep Learning Engineer with hands on working experiance with state of the art ML/DL & AI techniques, I am very passionate regarding Web-Development and Machine Learning. I also have in-depth experiance in Web-Development (Both Front-End & Back-End Web-Development). I also write on <a href="https://medium.com/@MeetR"> Medium </a> for Towards Data Science and Analytics Vidhya. In here you will find all of my Machine Learning and web-development projects.
+  
+  
    
 
   
@@ -12,7 +14,7 @@
 
 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriginalMeet&layout=compact)](https://github.com/OriginalMeet/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriginalMeet)](https://github.com/OriginalMeet/github-readme-stats)
   
 
 <!--
