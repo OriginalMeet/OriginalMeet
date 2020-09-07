@@ -32,6 +32,25 @@
   ![](https://img.shields.io/badge/CMake-informational?style=flat&logo=cmake&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/C++-informational?style=flat&logo=C++&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blueviolet)
+  
+  ![](https://img.shields.io/badge/MatLab/LabVIEW-informational?style=flat&logo=LabVIEW&logoColor=white&color=blueviolet)
+  
+  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
+  
+  
+
   
   
   
