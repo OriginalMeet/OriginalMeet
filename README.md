@@ -1,5 +1,7 @@
-### Hi there, I'm Meet <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="200px">
-
+### Hi there, I'm Meet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div align="center">
+  <img align="center" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="500px">
+ </div>
 <!--
 **OriginalMeet/OriginalMeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
