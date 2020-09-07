@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Meet <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="200px">
 
 <!--
 **OriginalMeet/OriginalMeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
