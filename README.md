@@ -27,9 +27,9 @@
 <p>
   
   ## Programming Languages & FrameWorks
-  ![](https://img.shields.io/badge/Code-Python-informational?      style=flat&logo=python&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
   
