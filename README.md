@@ -36,17 +36,23 @@
   ![](https://img.shields.io/badge/C++-informational?style=flat&logo=C++&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/MatLab/LabVIEW-informational?style=flat&logo=LabVIEW&logoColor=white&color=blueviolet)
-  
   ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=blueviolet)
-  
   ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=blueviolet)
-  
   ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blueviolet)
-  
   ![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=blueviolet)
-  
   ![](https://img.shields.io/badge/Power_BI-informational?style=flat&logo=Power-BI&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=blueviolet)
   
+  ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/Nodemon-informational?style=flat&logo=Nodemon&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=blueviolet)
+  
+  ![](https://img.shields.io/badge/RESTful_API-informational?style=flat&logoColor=white&color=blueviolet)
+  
+  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
