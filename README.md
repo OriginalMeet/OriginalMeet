@@ -34,16 +34,19 @@
   ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/C++-informational?style=flat&logo=C++&logoColor=white&color=blueviolet)
-  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blueviolet)
-  
   ![](https://img.shields.io/badge/MatLab/LabVIEW-informational?style=flat&logo=LabVIEW&logoColor=white&color=blueviolet)
   
-  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
-  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
-  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
-  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
-  ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=blueviolet)
+  
+  ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=blueviolet)
+  
+  ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blueviolet)
+  
+  ![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=blueviolet)
+  
+  ![](https://img.shields.io/badge/Power_BI-informational?style=flat&logo=Power-BI&logoColor=white&color=blueviolet)
+  
   ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
