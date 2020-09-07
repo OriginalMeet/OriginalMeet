@@ -1,10 +1,10 @@
 <div align='center'>  
   
   # Hi there, I'm Meet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <img align="center" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="700px">
+  <img align="center" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="400px">
   
   ## About Me : 👨‍💻
-  ##### I am Machine Learning/ Deep Learning Engineer with hands on working experiance with state of the art ML/DL & AI techniques. I also have in-depth experiance in Web-Development (Both Front-End & Back-End Web-Development). I have als
+  ##### I am Machine Learning/ Deep Learning Engineer with hands on working experiance with state of the art ML/DL & AI techniques. I also have in-depth experiance in Web-Development (Both Front-End & Back-End Web-Development). I also write on <a href="https://medium.com/@MeetR"> Medium </a> for Towards Data Science and Analytics Vidhya.
    
 
   
