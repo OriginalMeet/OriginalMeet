@@ -1,4 +1,4 @@
-### Hi there, I'm Meet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div align='center'>  <strong> Hi there, I'm Meet </strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div>
 <div align="center">
   <img align="center" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="500px">
 </div>
