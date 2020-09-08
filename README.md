@@ -4,9 +4,6 @@
    ### Hi there, I'm Meet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <img align="center" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="400px">
   
-  [button url="http://www.google.com"]
-
-  
   # About Me : 👨‍💻
   ##### I am Machine Learning/ Deep Learning Engineer with hands on working experiance with state of the art ML/DL & AI techniques, I am very passionate regarding Web-Development and Machine Learning. I also have in-depth experiance in Web-Development (Both Front-End & Back-End Web-Development). I also write on <a href="https://medium.com/@MeetR"> Medium </a> for Towards Data Science and Analytics Vidhya. In here you will find all of my Machine Learning and web-development projects. Here is my <a href="https://www.linkedin.com/in/meet-raval/"> Linkedin </a> if you want to reach out and connect☺️.
   
@@ -18,7 +15,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OriginalMeet&hide=java,html&title_color=black&text_color=black&icon_color=black&bg_color=white" />
 </a>
 
-## My Projects:
+# My Projects:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OriginalMeet&repo=ColorGame)](https://github.com/OriginalMeet/ColorGame)
+
 
   
 # 🔧 Technologies & Tools
