@@ -1,7 +1,7 @@
 
 <div align='center'>  
   
-  <img align="center" src="./githubthing.png" width="500px">
+   ### Hi there, I'm Meet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <img align="center" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="400px">
   
   # About Me : 👨‍💻
