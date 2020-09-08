@@ -1,7 +1,7 @@
 
 <div align='center'>  
   
-  <img src="githubthing.png" width="30px">
+  <img src="githubthing.png" width="300px">
   <img align="center" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="400px">
   
   # About Me : 👨‍💻
