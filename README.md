@@ -8,18 +8,13 @@
   ##### I am Machine Learning/ Deep Learning Engineer with hands on working experiance with state of the art ML/DL & AI techniques, I am very passionate regarding Web-Development and Machine Learning. I also have in-depth experiance in Web-Development (Both Front-End & Back-End Web-Development). I also write on <a href="https://medium.com/@MeetR"> Medium </a> for Towards Data Science and Analytics Vidhya. In here you will find all of my Machine Learning and web-development projects. Here is my <a href="https://www.linkedin.com/in/meet-raval/"> Linkedin </a> if you want to reach out and connect☺️.
   
   
-  
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/OriginalMeet/OriginalMeet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OriginalMeet&hide=java,html&title_color=black&text_color=black&icon_color=black&bg_color=white" />
-</a>
-
+ 
+<!--
 # My Projects:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OriginalMeet&repo=ColorGame)](https://github.com/OriginalMeet/ColorGame)
 
-
+-->
   
 # 🔧 Technologies & Tools
 <p>
@@ -89,6 +84,13 @@
   ![](https://img.shields.io/badge/Full_Stack_Development-informational?style=flat&logoColor=white&color=blue)
   
 </p>
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/OriginalMeet/OriginalMeet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OriginalMeet&hide=java,html&title_color=black&text_color=black&icon_color=black&bg_color=white" />
+</a>
+
 
 
   
