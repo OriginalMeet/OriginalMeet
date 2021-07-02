@@ -73,7 +73,7 @@
 <p>
   
   ## Skills
-  ![](https://img.shields.io/badge/Machine_Learning-informational?style=flat&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Software-Development-informational?style=flat&logoColor=white&color=blue)
   ![](https://img.shields.io/badge/Natural_Language_Processing(NLP)-informational?style=flat&logoColor=white&color=blue)
   ![](https://img.shields.io/badge/Convolutional_Neural_Networks(CNN)-informational?style=flat&logoColor=white&color=blue)
   ![](https://img.shields.io/badge/Data_Analytics-informational?style=flat&logoColor=white&color=blue)
