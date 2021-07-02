@@ -5,7 +5,7 @@
   <img align="center" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="400px">
   
   # About Me : 👨‍💻
-  ##### I am Machine Learning/ Deep Learning Engineer with hands on working experiance with state of the art ML/DL & AI techniques, I am very passionate regarding Web-Development and Machine Learning. I also have in-depth experiance in Web-Development (Both Front-End & Back-End Web-Development). I also write on <a href="https://medium.com/@MeetR"> Medium </a> for Towards Data Science and Analytics Vidhya. In here you will find all of my Machine Learning and web-development projects. Here is my <a href="https://www.linkedin.com/in/meet-raval/"> Linkedin </a> if you want to reach out and connect☺️. Here is my <a href="https://originalmeet.github.io/My_Portfolio/"> PortFolio website. </a>
+  ##### I am Software Developer & AI Engineer with hands on working experiance with developing optimized software applications, I am very passionate regarding Software Development and Machine Learning. I also have in-depth experiance in Web-Development (Both Front-End & Back-End Web-Development). I also write on <a href="https://medium.com/@MeetR"> Medium </a> for Towards Data Science and Analytics Vidhya. In here you will find all of my Machine Learning and web-development projects. Here is my <a href="https://www.linkedin.com/in/meet-raval/"> Linkedin </a> if you want to reach out and connect☺️. Here is my <a href="https://originalmeet.github.io/My_Portfolio/"> PortFolio website. </a>
   
   
  
