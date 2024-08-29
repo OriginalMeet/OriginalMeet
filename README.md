@@ -36,6 +36,7 @@
 <p>
   
   ## Programming Languages & FrameWorks
+  ![](https://img.shields.io/badge/Go-informational?style=flat&logo=Go&logoColor=Blue&color=blueviolet)
   ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/CMake-informational?style=flat&logo=cmake&logoColor=white&color=blueviolet)
@@ -84,13 +85,6 @@
   ![](https://img.shields.io/badge/Full_Stack_Development-informational?style=flat&logoColor=white&color=blue)
   
 </p>
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/OriginalMeet/OriginalMeet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OriginalMeet&hide=java,html&title_color=black&text_color=black&icon_color=black&bg_color=white" />
-</a>
-
 
 
   
