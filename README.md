@@ -36,7 +36,7 @@
 <p>
   
   ## Programming Languages & FrameWorks
-  ![](https://img.shields.io/badge/Go-informational?style=flat&logo=Go&logoColor=Blue&color=blueviolet)
+  ![](https://img.shields.io/badge/Go-informational?style=flat&logo=Go&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/CMake-informational?style=flat&logo=cmake&logoColor=white&color=blueviolet)
