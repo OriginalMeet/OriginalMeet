@@ -41,5 +41,5 @@ I currently work at **Trolley**, building payment architectures that move millio
 ---
 
 ### 📫 Connect with Me
-* [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
+* [LinkedIn](https://www.linkedin.com/in/meet-raval/)
 * **Email:** ravalm320@gmail.com
