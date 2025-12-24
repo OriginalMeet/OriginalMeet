@@ -1,6 +1,6 @@
 # Hi there, I'm Meet Raval! 👋
 
-I am a **Staff-level Software Engineer** specializing in **Distributed Systems**, **High-Frequency Event Processing**, and **Fintech Infrastructure**.
+I am a **Software Engineer** specializing in **Distributed Systems**, **High-Frequency Event Processing**, and **Fintech Infrastructure** with **5+ years of experience** in building and mainataining well tested, high performance systems written with clean code.
 
 I currently work at **Trolley**, building payment architectures that move millions of dollars. Previously, I engineered security systems at **Arctic Wolf** handling massive scale data ingestion.
 
